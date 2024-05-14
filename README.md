@@ -1,6 +1,6 @@
 # abdenme
 # Título del Proyecto
-![Imagen de Portada](recursos git/descarga.jpg)
+![Imagen de Portada](repository-open-graph-template (1).png)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Características
